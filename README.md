@@ -1,8 +1,8 @@
-#Wordle-ish: A simplified Wordle game
+# Wordle-ish: A simplified Wordle game
 
-###Video Demo: https://youtu.be/GrDzmxv6QHE
+### Video Demo: https://youtu.be/GrDzmxv6QHE
 
-###Description:
+### Description:
 
 This is a python script that implements a word guessing game. The game is called "Wordle-ish" and is a simplified version of the popular game "Wordle". The unique element os the script is the utilization the colorama library to display colored text to indicate the correctness of the user's guesses.
 
