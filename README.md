@@ -2,7 +2,6 @@
 
 ### Video Demo: https://youtu.be/GrDzmxv6QHE
 
-Pls don't judge this was just a box I had to tick to finish the course
 
 ### Description:
 
